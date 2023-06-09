@@ -1,0 +1,20 @@
+{
+  "cssImports": {
+    "/Users/jordan/Desktop/Personal/car-mobile/src/app/layout.tsx": [
+      "/Users/jordan/Desktop/Personal/car-mobile/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Poppins\",\"arguments\":[{\"subsets\":[\"latin\"],\"display\":\"swap\",\"weight\":[\"300\",\"400\",\"500\",\"600\",\"700\"]}],\"variableName\":\"poppins\"}",
+      "/Users/jordan/Desktop/Personal/car-mobile/src/app/globals.css",
+      "/Users/jordan/Desktop/Personal/car-mobile/src/fonts/line-awesome-1.3.0/css/line-awesome.css",
+      "/Users/jordan/Desktop/Personal/car-mobile/src/styles/index.scss",
+      "/Users/jordan/Desktop/Personal/car-mobile/node_modules/rc-slider/assets/index.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/jordan/Desktop/Personal/car-mobile/src/app/page": [
+      "/Users/jordan/Desktop/Personal/car-mobile/src/app/globals.css",
+      "/Users/jordan/Desktop/Personal/car-mobile/src/fonts/line-awesome-1.3.0/css/line-awesome.css",
+      "/Users/jordan/Desktop/Personal/car-mobile/src/styles/index.scss",
+      "/Users/jordan/Desktop/Personal/car-mobile/node_modules/rc-slider/assets/index.css",
+      "/Users/jordan/Desktop/Personal/car-mobile/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Poppins\",\"arguments\":[{\"subsets\":[\"latin\"],\"display\":\"swap\",\"weight\":[\"300\",\"400\",\"500\",\"600\",\"700\"]}],\"variableName\":\"poppins\"}"
+    ]
+  }
+}
